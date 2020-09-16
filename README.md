@@ -22,7 +22,7 @@ $ cd Google
 
 <h2>Usage</h2>
 
-$ bash I-G.sh
+$ bash Google.sh
 
 Now select your option then turn on hotspot and wait until ngrok generate link for you. I recommend you to use link shortner to send ngrok link.
 
